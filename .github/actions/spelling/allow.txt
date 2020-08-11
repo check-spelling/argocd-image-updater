@@ -10,6 +10,7 @@ argoproj
 argoprojlabs
 argproj
 args
+auths
 babayaga
 baralias
 baz
@@ -31,6 +32,7 @@ codehilite
 config
 coverprofile
 cred
+creds
 css
 Ctx
 deadcode
@@ -64,6 +66,7 @@ Google
 gopkg
 goreportcard
 goroutine
+goroutines
 grpc
 guestbook
 healthport
@@ -71,6 +74,7 @@ healthz
 heptio
 hsla
 http
+https
 ifdef
 img
 ineffassign
@@ -158,6 +162,7 @@ taglist
 TEMPFILE
 testdata
 tl
+TLS
 tmp
 toc
 TODO
